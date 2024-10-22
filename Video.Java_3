@@ -1,0 +1,12 @@
+// Online Java Compiler
+// Use this editor to write, compile and run your Java code online
+public class Variable {
+    public static void main(String[] args) {
+        int num1 = 47; // Primera variable
+        int num2 = 2;  // Segunda variable
+        int resultado = num1 / num2; 
+
+        // Mensaje de salida sin caracteres especiales
+        System.out.println("El resultado de la division es: " + resultado);
+    }
+}
