@@ -1,0 +1,15 @@
+// Online Java Compiler
+// Use this editor to write, compile and run your Java code online
+
+public class Variable {
+    public static void main(String[] args) {
+        int num1 = 5;  // Fixed variable name from numl to num1
+        int num2 = 10;
+
+        if (num1 > num2) {
+            System.out.println("El num2 es mayor al num1");
+        } else {
+            System.out.println("El num1 es mayor o igual a num2");
+        }
+    }
+}
